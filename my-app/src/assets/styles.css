@@ -1,0 +1,76 @@
+/* You can add global styles to this file, and also import other style files */
+.content-center{
+    /* background-image: url("bodyBackground.jpg"); */
+    text-align: center;
+    width: 98%;
+    /* background-color: #f8f9fa; */
+    z-index: 5;
+    margin-left: 12px;
+    font-size: 20px;    
+    font-weight: 500;
+}
+.optionClass{
+    padding-left: 21%; 
+}
+
+.tattHeader{
+    background-image: url("headerBackground.jpg");
+    background-size: cover;
+    color: #FFF;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #71787f !important;
+}
+
+.questionOption{
+    width: 41%;
+    padding-right: 18%;
+    height: 65px;
+    text-align: left;
+}
+.radioBtnClass{
+    height: 16px;
+    width: 19px;
+}
+
+.changeUser{
+    float: right;
+    margin-top: -110px;
+    margin-right: 5px;
+    background-color:#234b78;
+}
+
+#userDdl{
+    background-color:#234b78;
+    border: #234b78;
+    color: #FFF;
+}
+
+.questionContainer{
+    width: 60%;
+    text-align: left;
+    margin-left: 20%;
+}
+
+.resuleTable{
+    width: 71%;
+    padding-left: 34%;
+    text-align: left;
+}
+
+.nextBtn{
+    text-align: right;
+    margin-right: 10%;
+}
+#nextBtn, #submitTest{
+    width: 16%;
+    font-size: 98%;
+    background-color:#525558 !important;
+    border-color: #71787f !important;
+}
+
+.report {
+    margin-top: 10% !important;
+    margin-left: 48% !important;
+}

@@ -1,0 +1,72 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+    <h1 class="tattHeader">
+      {{ title }}! <br/>
+      <label *ngIf="!showAlert && !showWarning && !isAdmin">{{sectionTimer}}</label>
+      <label *ngIf="showWarning && !isAdmin" class="alert alert-warning" >{{sectionTimer}}</label>
+      <label *ngIf="showAlert && !isAdmin" class="alert alert-danger" >{{sectionTimer}}</label>
+      <!-- <label class="alert" [ngClass.alert-warning]="showWarning" [ngClass.alert-danger]="showAlert">{{sectionTimer}}</label> -->
+      <!-- <label [ngClass]="showWarning?'alert alert-warning':''" [ngClass]="showAlert?'alert alert-danger':''">{{sectionTimer}}</label> -->
+      
+    </h1>
+    <div class="changeUser">
+        <img src="../assets/userLogo.jpg" height="42" width="42">
+        <select id="userDdl" (change)="changeLogin($event)">
+          <option value="1">Sandesh</option>
+          <option value="2">Naveen</option>
+          <option value="3">Harish</option>
+          <option value="4">Rasmita</option>
+          <option value="5">Admin</option>
+        </select>
+      </div>
+  </div>
+  <!-- Fill your details to get started <br/>
+  <input type="text" placeholder="Mobile Number"/> <br/>
+  <input type="text" placeholder="Name" /> <br/>
+  <button>Start</button> -->
+  <div *ngIf = "!isAdmin" class="content-center">
+   
+    <nav class="nav nav-pills nav-justified">
+      <a class="nav-item nav-link" href="#Aptitude" [ngClass]="(activeSection == 1)?'active':'disabled'">Aptitude</a>
+      <a class="nav-item nav-link" href="#Reasoning" [ngClass]="(activeSection == 2)?'active':'disabled'">Reasoning</a>
+      <a class="nav-item nav-link" href="#Technology" [ngClass]="(activeSection == 3)?'active':'disabled'">Technology</a>
+    </nav>
+    <div id = "Aptitude" *ngIf = "activeSection == 1">
+        <app-quiz-app [currentSection]="getSection()" (scoreForCurrentSection)="setCurrentSectionScore($event)" (isChangeSection)="changeCurrentSection($event)"></app-quiz-app>
+      <!-- <button class="btn btn-primary submitBtn" (click)="getNextSection(1)">Submit section</button> -->
+    </div>
+    <div id = "Reasoning" *ngIf = "activeSection == 2">
+        <app-quiz-app [currentSection]="getSection()" (scoreForCurrentSection)="setCurrentSectionScore($event)" (isChangeSection)="changeCurrentSection($event)"></app-quiz-app>
+      <!-- <button class="btn btn-primary submitBtn" (click)="getNextSection(2)">Submit section</button> -->
+    </div>
+    <div id = "Technology" *ngIf = "activeSection == 3">
+        <app-quiz-app [currentSection]="getSection()" (scoreForCurrentSection)="setCurrentSectionScore($event)" (isChangeSection)="changeCurrentSection($event)"></app-quiz-app>      
+        <span class="showMessage" *ngIf="!showResult"><h2>Thank you for taking the test.</h2></span>
+      <button id="submitTest" *ngIf="!showResult" class="btn btn-primary" (click)="submitTest()">Submit</button>
+      
+    <div *ngIf="showResult">
+        <h2>Thank you for taking the test.</h2>
+        <br>
+        <div class="resuleTable">
+        <table class="table">
+          <tr><td>Aptitude</td><td>{{aptitudeLevel}}</td></tr>
+          <tr><td>Reasoning</td><td>{{reasoningLevel}}</td></tr>
+          <tr><td>Technology</td><td>{{technologyLevel}}</td></tr>
+        </table>
+      </div>
+    </div>
+    </div>
+  </div>
+  <div *ngIf="isAdmin">
+    <div class="report">
+      <button id="report" *ngIf="!showResult" class="btn btn-primary" (click)="sendReport()">Generate score card</button>
+      <label id="lblMessage"></label>
+    </div>
+  </div>
+  
+
+  
+
+<!--The content below is only a placeholder and can be replaced.-->
+  
+

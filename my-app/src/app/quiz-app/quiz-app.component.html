@@ -1,0 +1,46 @@
+<label>Current Complexity: {{currentComplexity}}</label>
+<!-- <br>
+<button (click)="SetCorrectCount()">Correct</button> <button (click)="SetWrongCount()">Wrong</button>
+<br> -->
+<!-- <label>test: {{apiResponse}}</label> -->
+<br>
+<!-- <div *ngFor="let option of options">
+  <input type="radio" name="radiogroup" [value]="option" (change)="onSelectionChange(option)">{{option}}
+</div> -->
+<div *ngIf="questionNumber <= 10">
+    <div *ngIf="currentQuestion">
+      
+      <div class="questionContainer">
+          <b>Question {{questionNumber}} :</b>
+          <br>
+          {{currentQuestion.Text}}
+          <br>
+          <br>
+        </div>
+      <div class="optionClass">
+        <div class="row">
+            <div class="row-column questionOption">
+              <input type="radio" class="radioBtnClass" name="radiogroup" [value]="currentQuestion.Option1" (change)="onSelectionChange(currentQuestion.Option1)">  {{currentQuestion.Option1}} &nbsp;&nbsp;
+            </div>
+            <div class="row-column questionOption">
+                <input type="radio" class="radioBtnClass" name="radiogroup" [value]="currentQuestion.Option2" (change)="onSelectionChange(currentQuestion.Option2)">  {{currentQuestion.Option2}} &nbsp;&nbsp;
+            </div>
+        </div>
+        <div class="row">
+            <div class="row-column questionOption">
+              <input type="radio" class="radioBtnClass" name="radiogroup" [value]="currentQuestion.Option3" (change)="onSelectionChange(currentQuestion.Option3)">  {{currentQuestion.Option3}} &nbsp;&nbsp;
+            </div>
+            <div class="row-column questionOption">
+              <input type="radio" class="radioBtnClass" name="radiogroup" [value]="currentQuestion.Option4" (change)="onSelectionChange(currentQuestion.Option4)">  {{currentQuestion.Option4}} &nbsp;&nbsp;
+            </div>  
+        </div>
+      </div>
+        <br>
+      <div class="questionContainer">
+        <label>Selected option: {{selectedOption}}</label>
+      </div>
+      <div class="nextBtn">
+          <button class="btn btn-primary" id="nextBtn" (click)="nextQuestion()" *ngIf="questionNumber<=10" >Next question</button>
+      </div>
+    </div>
+</div>

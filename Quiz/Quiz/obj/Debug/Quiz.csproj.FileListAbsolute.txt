@@ -1,0 +1,237 @@
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\csc.exe
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\vbc.exe
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Quiz.dll.config
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Quiz.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Quiz.pdb
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Antlr3.Runtime.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\EntityFramework.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\EntityFramework.SqlServer.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Newtonsoft.Json.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Owin.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Net.Http.Formatting.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Helpers.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Http.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Http.Owin.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Http.WebHost.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Mvc.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Optimization.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Razor.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.WebPages.Deployment.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.WebPages.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.WebPages.Razor.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\WebGrease.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Newtonsoft.Json.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Net.Http.Formatting.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Helpers.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Http.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Http.WebHost.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Mvc.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Optimization.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Razor.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.WebPages.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.WebPages.Deployment.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.WebPages.Razor.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Antlr3.Runtime.pdb
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\EntityFramework.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\EntityFramework.SqlServer.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\bin\System.Web.Http.Owin.xml
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.dll
+c:\users\hhn\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\Quiz\Quiz\obj\Debug\Quiz.dll
+D:\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Quiz\Quiz\bin\roslyn\csc.exe
+D:\Quiz\Quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Quiz\Quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Quiz\Quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Quiz\Quiz\bin\roslyn\System.Collections.Immutable.dll
+D:\Quiz\Quiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Quiz\Quiz\bin\roslyn\vbc.exe
+D:\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe
+D:\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe.config
+D:\Quiz\Quiz\bin\Quiz.dll.config
+D:\Quiz\Quiz\bin\Quiz.dll
+D:\Quiz\Quiz\bin\Quiz.pdb
+D:\Quiz\Quiz\bin\Antlr3.Runtime.dll
+D:\Quiz\Quiz\bin\EntityFramework.dll
+D:\Quiz\Quiz\bin\EntityFramework.SqlServer.dll
+D:\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Quiz\Quiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Quiz\Quiz\bin\Microsoft.Web.Infrastructure.dll
+D:\Quiz\Quiz\bin\Newtonsoft.Json.dll
+D:\Quiz\Quiz\bin\Owin.dll
+D:\Quiz\Quiz\bin\System.Net.Http.Formatting.dll
+D:\Quiz\Quiz\bin\System.Web.Helpers.dll
+D:\Quiz\Quiz\bin\System.Web.Http.dll
+D:\Quiz\Quiz\bin\System.Web.Http.Owin.dll
+D:\Quiz\Quiz\bin\System.Web.Http.WebHost.dll
+D:\Quiz\Quiz\bin\System.Web.Mvc.dll
+D:\Quiz\Quiz\bin\System.Web.Optimization.dll
+D:\Quiz\Quiz\bin\System.Web.Razor.dll
+D:\Quiz\Quiz\bin\System.Web.WebPages.Deployment.dll
+D:\Quiz\Quiz\bin\System.Web.WebPages.dll
+D:\Quiz\Quiz\bin\System.Web.WebPages.Razor.dll
+D:\Quiz\Quiz\bin\WebGrease.dll
+D:\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Quiz\Quiz\bin\Newtonsoft.Json.xml
+D:\Quiz\Quiz\bin\System.Net.Http.Formatting.xml
+D:\Quiz\Quiz\bin\System.Web.Helpers.xml
+D:\Quiz\Quiz\bin\System.Web.Http.xml
+D:\Quiz\Quiz\bin\System.Web.Http.WebHost.xml
+D:\Quiz\Quiz\bin\System.Web.Mvc.xml
+D:\Quiz\Quiz\bin\System.Web.Optimization.xml
+D:\Quiz\Quiz\bin\System.Web.Razor.xml
+D:\Quiz\Quiz\bin\System.Web.WebPages.xml
+D:\Quiz\Quiz\bin\System.Web.WebPages.Deployment.xml
+D:\Quiz\Quiz\bin\System.Web.WebPages.Razor.xml
+D:\Quiz\Quiz\bin\Antlr3.Runtime.pdb
+D:\Quiz\Quiz\bin\EntityFramework.xml
+D:\Quiz\Quiz\bin\EntityFramework.SqlServer.xml
+D:\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Quiz\Quiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Quiz\Quiz\bin\System.Web.Http.Owin.xml
+D:\Quiz\Quiz\bin\System.Web.Cors.dll
+D:\Quiz\Quiz\bin\System.Web.Http.Cors.dll
+D:\Quiz\Quiz\bin\System.Web.Http.Cors.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\csc.exe
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\System.Collections.Immutable.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\vbc.exe
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\roslyn\VBCSCompiler.exe.config
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Quiz.dll.config
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Quiz.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Quiz.pdb
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Antlr3.Runtime.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\EntityFramework.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\EntityFramework.SqlServer.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Web.Infrastructure.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Newtonsoft.Json.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Owin.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Net.Http.Formatting.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Cors.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Helpers.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.Cors.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.Owin.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.WebHost.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Mvc.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Optimization.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Razor.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.WebPages.Deployment.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.WebPages.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.WebPages.Razor.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\WebGrease.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Net.Http.Formatting.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.Cors.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Newtonsoft.Json.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Helpers.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.WebHost.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Mvc.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Optimization.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Razor.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.WebPages.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.WebPages.Deployment.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.WebPages.Razor.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Antlr3.Runtime.pdb
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\EntityFramework.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\EntityFramework.SqlServer.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Google.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\bin\System.Web.Http.Owin.xml
+D:\TEKathon\TEKathon\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\TEKathon\TEKathon\Quiz\Quiz\obj\Debug\Quiz.dll
+D:\TEKathon\TEKathon\Quiz\Quiz\obj\Debug\Quiz.pdb
